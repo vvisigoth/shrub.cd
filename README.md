@@ -29,11 +29,11 @@ shrub.cd
 
 ## Implementation plan
 
--[ ] manually create YT tracks
--[ ] form to add YT tracks
--[ ] mine info from page
--[ ] playlist data type
--[ ] async playlist player
--[ ] sync playlist player
--[ ] Permissioning
+- [ ] manually create YT tracks
+- [ ] form to add YT tracks
+- [ ] mine info from page
+- [ ] playlist data type
+- [ ] async playlist player
+- [ ] sync playlist player
+- [ ] Permissioning
 
